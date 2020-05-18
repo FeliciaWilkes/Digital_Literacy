@@ -1,6 +1,15 @@
 div {
   border: 1px solid red;
 }
+/* common nav style */
+.navigation-wrapper {
+  height: 190px;
+  background-color: #11122b;
+  color: #cbcbcb;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 .contact-hours-wrapper {
   color: royalblue;
 }
